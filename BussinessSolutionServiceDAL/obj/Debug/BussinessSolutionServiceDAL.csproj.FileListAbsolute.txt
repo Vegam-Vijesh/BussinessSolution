@@ -1,0 +1,14 @@
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\BussinessSolutionServiceDAL.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\BussinessSolutionServiceDAL.pdb
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\bin\Debug\MySql.Data.DLL
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\obj\Debug\BussinessSolutionServiceDAL.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\obj\Debug\BussinessSolutionServiceDAL.pdb
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionServiceDAL\obj\Debug\BussinessSolutionServiceDAL.csprojResolveAssemblyReference.cache

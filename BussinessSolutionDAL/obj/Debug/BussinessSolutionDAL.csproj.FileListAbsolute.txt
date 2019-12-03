@@ -1,0 +1,9 @@
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\BussinessSolutionDAL.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\BussinessSolutionDAL.pdb
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\obj\Debug\BussinessSolutionDAL.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\obj\Debug\BussinessSolutionDAL.pdb
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\obj\Debug\BussinessSolutionDAL.csprojResolveAssemblyReference.cache
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Work\Bussiness\BussinessSolution\BussinessSolutionDAL\bin\Debug\MySql.Data.dll
